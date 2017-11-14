@@ -1,0 +1,1 @@
+This is a repository of notes from books that I've read and studied. The subjects are varied but I've attempted to provide some order in how they are organized by grouping the notes in folders by subject. 
